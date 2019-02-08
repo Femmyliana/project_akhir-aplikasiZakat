@@ -1,0 +1,21 @@
+D:\STIKOM\SEMESTER 3 2018\zakat_baru\bin\Debug\zakat_baru.exe.config
+D:\KULIAH\smt3\Manajemen Keuangan\project uas\zakat_baru\zakat_baru\bin\Debug\zakat_baru.exe.config
+D:\KULIAH\smt3\Manajemen Keuangan\project uas\zakat_baru\zakat_baru\bin\Debug\zakat_baru.exe
+D:\KULIAH\smt3\Manajemen Keuangan\project uas\zakat_baru\zakat_baru\bin\Debug\zakat_baru.pdb
+D:\KULIAH\smt3\Manajemen Keuangan\project uas\zakat_baru\zakat_baru\bin\Debug\zakat_baru.xml
+D:\KULIAH\smt3\Manajemen Keuangan\project uas\zakat_baru\zakat_baru\obj\Debug\WindowsApplication1.Form1.resources
+D:\KULIAH\smt3\Manajemen Keuangan\project uas\zakat_baru\zakat_baru\obj\Debug\WindowsApplication1.Resources.resources
+D:\KULIAH\smt3\Manajemen Keuangan\project uas\zakat_baru\zakat_baru\obj\Debug\zakat_baru.vbproj.GenerateResource.Cache
+D:\KULIAH\smt3\Manajemen Keuangan\project uas\zakat_baru\zakat_baru\obj\Debug\zakat_baru.exe
+D:\KULIAH\smt3\Manajemen Keuangan\project uas\zakat_baru\zakat_baru\obj\Debug\zakat_baru.xml
+D:\KULIAH\smt3\Manajemen Keuangan\project uas\zakat_baru\zakat_baru\obj\Debug\zakat_baru.pdb
+D:\STIKOM\SEMESTER 3 2018\MANAJEMEN KEUANGAN\zakat_baru\zakat_baru\bin\Debug\zakat_baru.exe.config
+D:\STIKOM\SEMESTER 3 2018\MANAJEMEN KEUANGAN\zakat_baru\zakat_baru\obj\Debug\zakat_baru.exe
+D:\STIKOM\SEMESTER 3 2018\MANAJEMEN KEUANGAN\zakat_baru\zakat_baru\obj\Debug\zakat_baru.xml
+D:\STIKOM\SEMESTER 3 2018\MANAJEMEN KEUANGAN\zakat_baru\zakat_baru\obj\Debug\zakat_baru.pdb
+D:\STIKOM\SEMESTER 3 2018\MANAJEMEN KEUANGAN\zakat_baru\zakat_baru\bin\Debug\zakat_baru.exe
+D:\STIKOM\SEMESTER 3 2018\MANAJEMEN KEUANGAN\zakat_baru\zakat_baru\bin\Debug\zakat_baru.pdb
+D:\STIKOM\SEMESTER 3 2018\MANAJEMEN KEUANGAN\zakat_baru\zakat_baru\bin\Debug\zakat_baru.xml
+D:\STIKOM\SEMESTER 3 2018\MANAJEMEN KEUANGAN\zakat_baru\zakat_baru\obj\Debug\WindowsApplication1.Form1.resources
+D:\STIKOM\SEMESTER 3 2018\MANAJEMEN KEUANGAN\zakat_baru\zakat_baru\obj\Debug\WindowsApplication1.Resources.resources
+D:\STIKOM\SEMESTER 3 2018\MANAJEMEN KEUANGAN\zakat_baru\zakat_baru\obj\Debug\zakat_baru.vbproj.GenerateResource.Cache
